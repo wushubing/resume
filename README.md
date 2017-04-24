@@ -1,6 +1,6 @@
 # My Resume
 
-[html.love](http://html.love)
+[demo](https://wushubing.github.io/resume/)
 
 ## Introduction
 
@@ -22,7 +22,3 @@ $ npm install
 $ npm install -g gulp
 $ gulp
 ```
-
-## LICENSE
-
-MIT © [DIYgod](http://github.com/DIYgod)
